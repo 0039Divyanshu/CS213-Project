@@ -104,7 +104,7 @@
             border-radius:100px;
             padding:8px 33px;
             font-size: 1rem;
-            margin-right:1rem;
+            margin-left:5rem;
             outline: none;
             
 
@@ -124,31 +124,6 @@
               border:1px solid rgb(221, 219, 219);
             }
             
-        }
-        .button_2{
-            border:1px solid white;
-            background-color: white;
-            color:black;
-            border-radius:100px;
-            padding:8px 23px;
-            font-size: 1rem;
-            margin-left: 1rem;
-            outline: none;
-            &:hover{
-              transform : translateY(-5px);
-              transition: all .3s;
-              outline: none;
-              background-color: rgb(221, 219, 219);
-              border:1px solid rgb(221, 219, 219);
-            }
-
-            &:active{
-              transform : translateY(3px);
-              transition: all .3s;
-              outline: none;
-              background-color: rgb(221, 219, 219);
-              border:1px solid rgb(221, 219, 219);
-            }
         }
 
         
