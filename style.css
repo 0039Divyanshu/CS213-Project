@@ -121,7 +121,7 @@
   border-radius: 100px;
   padding: 8px 33px;
   font-size: 1rem;
-  margin-right: 1rem;
+  margin-left: 5rem;
   outline: none;
 }
 
@@ -136,37 +136,6 @@
 }
 
 .main_heading_buttons .button_1:active {
-  -webkit-transform: translateY(3px);
-          transform: translateY(3px);
-  -webkit-transition: all .3s;
-  transition: all .3s;
-  outline: none;
-  background-color: #dddbdb;
-  border: 1px solid #dddbdb;
-}
-
-.main_heading_buttons .button_2 {
-  border: 1px solid white;
-  background-color: white;
-  color: black;
-  border-radius: 100px;
-  padding: 8px 23px;
-  font-size: 1rem;
-  margin-left: 1rem;
-  outline: none;
-}
-
-.main_heading_buttons .button_2:hover {
-  -webkit-transform: translateY(-5px);
-          transform: translateY(-5px);
-  -webkit-transition: all .3s;
-  transition: all .3s;
-  outline: none;
-  background-color: #dddbdb;
-  border: 1px solid #dddbdb;
-}
-
-.main_heading_buttons .button_2:active {
   -webkit-transform: translateY(3px);
           transform: translateY(3px);
   -webkit-transition: all .3s;
